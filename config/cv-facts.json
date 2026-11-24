@@ -1,0 +1,37 @@
+{
+  "allow_metrics": [
+    "2 years"
+  ],
+  "allow_facts": [
+    "structure",
+    "structural analysis (sni 1726:2019)",
+    "plaxis 2d (embankment analysis)",
+    "english (incite 550)",
+    "autocad 2d/3d & bim",
+    "work method statement & k3 (jhsea",
+    "bachelor's degree in civil engineering (sarjana teknik sipil)",
+    "ahli muda teknik bangunan gedung (junior building engineering expert)",
+    "itera english proficiency test (incite) score 550",
+    "s-curve",
+    "s-curve)",
+    "architectural",
+    "back-up quantity: concrete",
+    "formwork",
+    "rebar",
+    "infrastructure engineer (contract)",
+    "intern toll road operations & maintenance",
+    "quality control assistant (intern)",
+    "construction project supervision",
+    "mining haul road infrastructure",
+    "project progress reporting",
+    "microsoft excel"
+  ],
+  "allow_swaps": [],
+  "forbidden_phrases": [
+    "TOEFL",
+    "Cubicost",
+    "cut and fill",
+    "cut & fill"
+  ],
+  "warn_phrases": []
+}
