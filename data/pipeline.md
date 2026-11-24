@@ -1,0 +1,188 @@
+# Pipeline — Pending URLs
+
+Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
+
+## Pending
+
+- [ ] https://id.jobstreet.com/id/job/96087320 | PT Takenaka Indonesia | Estimator | Jakarta | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95943729 | PT GT Ladang Teknik | Estimator Engineer | South Jakarta, Jakarta | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/96033811 | mitrabangun.id | Estimator | Bekasi, West Java | posted: 2026-11-21
+- [ ] https://id.jobstreet.com/id/job/95915150 | Wisana Matrakarya | QS/Estimator | Central Jakarta, Jakarta | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95911301 | PT Dwi Tunggal Surya Jaya | Estimator | Central Jakarta, Jakarta | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/96080450 | PT Cellcius Indoperkasa | Estimator & Drafter | West Jakarta, Jakarta | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95948000 | PT. CATUR GRIYA NARADIPA | Estimator | Tangerang, Banten | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/96015728 | PT Artha Grafika Mediatama | Estimator | Jakarta | posted: 2026-11-20
+- [ ] https://id.jobstreet.com/id/job/96025923 | PT. Sarana Konstruksi Nusantara | Estimator | West Jakarta, Jakarta | posted: 2026-11-20
+- [ ] https://id.jobstreet.com/id/job/95519646 | PT Tekad Guna Harapan | ESTIMATOR | West Jakarta, Jakarta | posted: 2026-10-27
+- [ ] https://id.jobstreet.com/id/job/95812295 | Private Advertiser | Estimator | West Jakarta, Jakarta | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95996118 | Greater Group Asia Limited | Quantity Surveyor | South Jakarta, Jakarta | posted: 2026-11-19
+- [ ] https://id.jobstreet.com/id/job/96016740 | PT Sandpasifik Jaya Abadi | Senior Quantity Surveyor | Bekasi, West Java | posted: 2026-11-20
+- [ ] https://id.jobstreet.com/id/job/95666928 | PT Focustama Sentralindo | Estimator | North Jakarta, Jakarta | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/96091499 | Sinar Mutiara EPC | Estimator Officer (EST-O) | Indonesia | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95488857 | CITANUSA GROUP | Estimator Officer | Kelapa Gading, Jakarta | posted: 2026-10-26
+- [ ] https://id.jobstreet.com/id/job/95821268 | mitrabangun.id | Lead Estimator | Semarang, Central Java | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/96083650 | PT. Amarta Gemilang Indotopaz | Staff Quantity Surveyor (QS) | Bekasi, West Java | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95835619 | PT Inter Equip Supplies Indonesia | Quantity Surveyor | Central Jakarta, Jakarta | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/95630552 | Yayasan Jembatan Cahaya Kasih | Senior Quantity Surveyor | Central Jakarta, Jakarta | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/95879055 | PT Jaya Sukses Makmur Sentosa Tbk (Tanrise Property) | Quantity Surveyor Section Head | Jakarta | posted: 2026-11-13
+- [ ] https://id.jobstreet.com/id/job/95774785 | Anakmuda Doyan Kerja | Estimator | Tangerang, Banten | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95524898 | PT Mitra Perdana Nuansa | Quantity Surveyor (QS) / Cost Control Supervisor | West Bandung, West Java | posted: 2026-10-27
+- [ ] https://id.jobstreet.com/id/job/95835628 | PT Jaya Kusuma Sarana | Senior Estimator | Central Jakarta, Jakarta | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/95640889 | PT Karya Presisi Anugerah | ESTIMATOR | West Jakarta, Jakarta | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/96078256 | PT ORION NUSANTARA TRACTORS | DRAFTER & ESTIMATOR PROJECT | Jakarta | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95669013 | PT BRINGIN KARYA SEJAHTERA | Estimator Arsitek | Jakarta | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/96051606 | PT Arba Propertindo | Quantity Surveyor (QS) | South Jakarta, Jakarta | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/96082385 | irishinterior | QUANTITY SURVEYOR (QS) - SIPIL | Tangerang, Banten | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95945198 | PT Indo Balau Ume | ESTIMATOR & DESIGN STAFF | Central Jakarta, Jakarta | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/95960782 | PT. STAR SKYKOM INDONESIA | Estimator Project | West Jakarta, Jakarta | posted: 2026-11-18
+- [ ] https://id.jobstreet.com/id/job/95860650 | PT CIPTA MANDIRI KONSTRUKSI | Estimator | Surabaya, East Java | posted: 2026-11-12
+- [ ] https://id.jobstreet.com/id/job/95668721 | PT BRINGIN KARYA SEJAHTERA | Quantity Surveyor | South Jakarta, Jakarta | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/96057576 | PT. EPCON PRIMA GUNA | ESTIMATOR | West Jakarta, Jakarta | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/96000188 | PT. Dinamika Dayamanunggal | quantity surveyor | South Tangerang, Banten | posted: 2026-11-19
+- [ ] https://id.jobstreet.com/id/job/95669064 | PT BRINGIN KARYA SEJAHTERA | Estimator Sipil | Jakarta | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/95521508 | PT Solobhakti Trading & Contractor | QUANTITY SURVEYOR (QS) SIPIL | Jakarta | posted: 2026-10-27
+- [ ] https://id.jobstreet.com/id/job/95897687 | Kembar Mas Group | Quantity Surveyor | Bandung, West Java | posted: 2026-11-15
+- [ ] https://id.jobstreet.com/id/job/95986298 | CV Semangat Trikarya | Senior Estimator | Surabaya, East Java | posted: 2026-11-19
+- [ ] https://id.jobstreet.com/id/job/96096346 | PT Interskala Mandiri Indonesia | Drafter & Estimator | Kalideres, Jakarta | posted: 2026-11-13
+- [ ] https://id.jobstreet.com/id/job/96047463 | PT Warna Warni Media - Surabaya | Staf Estimator & Perencana | Surabaya, East Java | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/95940318 | Private Advertiser | Project Estimator | Jakarta | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/96067251 | PT Alam Hijau Lestari | QUANTITY SURVEYOR | Tangerang, Banten | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/95774455 | VIVERE GROUP | Estimator Staff | Tangerang, Banten | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95781165 | PT. Indomitra Global | Estimator | Central Jakarta, Jakarta | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95973686 | PT Branusa Widnell | QUANTITY SURVEYOR (Sipil) | Central Jakarta, Jakarta | posted: 2026-11-18
+- [ ] https://id.jobstreet.com/id/job/95582291 | PT. Catureka Adikrida | Teknik Sipil Estimator | Central Jakarta, Jakarta | posted: 2026-10-29
+- [ ] https://id.jobstreet.com/id/job/95805259 | PT Gemala Saranaupaya | Staff Estimator | Cilincing, Jakarta | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95694145 | PT Inti Indah | Estimator Staff | West Jakarta, Jakarta | posted: 2026-11-04
+- [ ] https://id.jobstreet.com/id/job/95738461 | PT INDONESIA PUNYA KOPI | Quantity Surveyor | West Jakarta, Jakarta | posted: 2026-11-06
+- [ ] https://id.jobstreet.com/id/job/95796538 | PT Griya Kencana Indah | Staff Arsitek Drafter / Estimator | Jakarta | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95924840 | PT Batam Prima Resort | Quantity Surveyor – Hotel Construction & Renovation | Batam Kota, Riau Islands | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95544666 | DELTACO | senior project estimator | Tangerang, Banten | posted: 2026-10-28
+- [ ] https://id.jobstreet.com/id/job/95524491 | PT HIDAYAH SUKSES SEJAHTERA | Drafter Estimator Properti | Bandung, West Java | posted: 2026-10-28
+- [ ] https://id.jobstreet.com/id/job/95804357 | PT. Putra Dwi Mandiri | Quantity Surveyor & Site Engineer | South Tangerang, Banten | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95809467 | PT Cipta Arsigriya | STAFF ESTIMATOR AND BUDGETING | Palembang, South Sumatra | posted: 2026-11-10
+
+- [ ] https://id.jobstreet.com/id/job/95960118 | PT. LIXICON INDONESIA | Quantity Surveyor | Batam Kota, Riau Islands | posted: 2026-11-18
+- [ ] https://id.jobstreet.com/id/job/95962180 | PT Alam Sutera Realty Tbk | Quantity Surveyor | Tangerang, Banten | posted: 2026-11-18
+- [ ] https://id.jobstreet.com/id/job/95821832 | PT. Citra Marindo | Quantity Surveyor | Batam, Riau Islands | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/95760213 | PT Hua'an Industri Indonesia | QUANTITY SURVEYOR (QS) | North Jakarta, Jakarta | posted: 2026-11-07
+- [ ] https://id.jobstreet.com/id/job/95972453 | PT Danayasa Arthatama | Quantity Surveyor | South Jakarta, Jakarta | posted: 2026-11-18
+- [ ] https://id.jobstreet.com/id/job/96091448 | PT. Global Multindo Cipta | Quantity Surveyor | Surabaya, East Java | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95662525 | PT YOONGJIN KONSTRUKSI UTAMA | Quantity Surveyor | Semarang, Central Java | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/95684004 | PT Daya Pratama Lestari | QUANTITY SURVEYOR | Bandung, West Java | posted: 2026-11-04
+- [ ] https://id.jobstreet.com/id/job/96026299 | RGF HR Agent Indonesia | QS/Contract Administrator (Construction, 135580) | South Jakarta, Jakarta | posted: 2026-11-20
+- [ ] https://id.jobstreet.com/id/job/95512542 | PT Epiterma Mas Indonesia | Quantity Surveyor | Jakarta | posted: 2026-10-27
+- [ ] https://id.jobstreet.com/id/job/95688806 | PT Karyadeka Alam Lestari | Staff Quantity Surveyor | Semarang, Central Java | posted: 2026-11-04
+- [ ] https://id.jobstreet.com/id/job/95912762 | PT Wijaya Indotama Mandiri | Quantity Surveyor | Tangerang, Banten | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95680598 | PT Atap Perkasa | Quantity Surveyor | Surabaya, East Java | posted: 2026-11-04
+- [ ] https://id.jobstreet.com/id/job/95891947 | PT Immanuel Muliajaya Konstruksi | Quantity Surveyor | Surabaya, East Java | posted: 2026-11-14
+- [ ] https://id.jobstreet.com/id/job/95747861 | Private Advertiser | Quantity Surveyor Manager | Surabaya, East Java | posted: 2026-11-06
+- [ ] https://id.jobstreet.com/id/job/95664807 | PT ALPHA OMEGA BERSAUDARA | Quantity Surveyor (QS) | Semarang, Central Java | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/95668541 | PT Pendidikan Ganesha Operation | Quantity Surveyor | Bandung, West Java | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/95775514 | PT Gunawan Cipta Arsindo | teknik sipil | West Jakarta, Jakarta | posted: 2026-11-09
+
+- [ ] https://id.jobstreet.com/id/job/96052145 | PT. Permata Prima Enjiniring Elektrika | Civil Site Engineer (High Voltage Substation 150 kV+) | West Jakarta, Jakarta | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/95639389 | PT Teamworx Indonesia | Site Engineer | Jakarta | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/95918817 | Active Cesco | Site Engineer | Batam, Riau Islands | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/96057881 | PT Purna Laras Yasa | Site Engineer | South Jakarta, Jakarta | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/95915909 | Karmelindo Sarana Utama | SITE ENGINEER | Tangerang, Banten | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95963567 | PT Multikarya Sarana Perkasa | SITE ENGINEER | Jakarta | posted: 2026-11-18
+- [ ] https://id.jobstreet.com/id/job/95898874 | PT. Rasya Utama | Civil Engineer | Bandung, West Java | posted: 2026-11-15
+- [ ] https://id.jobstreet.com/id/job/95709338 | PT Concreate Anugerah Abadi | Site Engineer (Architect / Civil) | Jakarta | posted: 2026-11-05
+- [ ] https://id.jobstreet.com/id/job/95639465 | PT Nuraiti Tjermin (Waringin Warehouse) | Site Engineer | Tangerang, Banten | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/95780680 | PT Prima Sasana Adicipta | Site engineer | Jakarta | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95835202 | PT Artha Grafika Mediatama | Site Engineer | West Jakarta, Jakarta | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/96046810 | PT Ega Tekelindo Prima | CIVIL ENGINEER (Project Supervisor) | Tangerang, Banten | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/95699605 | GEOTEKINDO (Geoharbour Group) | Site Engineer | Kembangan, Jakarta | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/95582198 | PT. Catureka Adikrida | Teknik Sipil Engineering | Central Jakarta, Jakarta | posted: 2026-11-19
+- [ ] https://id.jobstreet.com/id/job/95775837 | PT GT Ladang Teknik | Civil Engineer | South Jakarta, Jakarta | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95784545 | PT Jakarta Digital Nusantara | Site Engineer | Tangerang District, Banten | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95970971 | PT Surya David Susanto | Site Engineer Teknik Sipil | Jakarta | posted: 2026-11-18
+- [ ] https://id.jobstreet.com/id/job/96025655 | PT Texmura | Site Engineering Staff | Central Jakarta, Jakarta | posted: 2026-11-20
+- [ ] https://id.jobstreet.com/id/job/95986618 | CV Semangat Trikarya | Site Engineer | Surabaya, East Java | posted: 2026-11-19
+- [ ] https://id.jobstreet.com/id/job/95640425 | Private Advertiser | Site Engineer | Central Jakarta, Jakarta | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/96062180 | Global Energi Lestari | Civil Engineer | South Jakarta, Jakarta | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/95577734 | PT.ZHENGOU INTI INDONESIA | Civil Engineering | Jakarta | posted: 2026-10-29
+- [ ] https://id.jobstreet.com/id/job/95639513 | PT ENVIROMATE TECHNOLOGY INTERNATIONAL | SITE ENGINEERING MANAGER | Jakarta | posted: 2026-11-02
+
+- [ ] https://id.jobstreet.com/id/job/95822777 | PT Password Solusi Sistem | Infrastructure Engineer | West Jakarta, Jakarta | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/96081902 | Cushman & Wakefield | Onsite Engineer / Technician | Jakarta | posted: 2026-11-24
+
+- [ ] https://id.jobstreet.com/id/job/96087492 | PT Takenaka Indonesia | Drafter 2D Structure | Central Jakarta, Jakarta | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/96092388 | PT. Woodlam Indonesia Abadi | Drafter | East Jakarta, Jakarta | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/96084036 | PT. Iter Aero Industri | Drafter | Bandung, West Java | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95933904 | PT CRUZINDO UTAMA JAYA | drafter | Bekasi, West Java | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/95988555 | PT Anak Sehat Idaman Hati | Project Drafter | South Jakarta, Jakarta | posted: 2026-11-19
+- [ ] https://id.jobstreet.com/id/job/95781777 | Erajaya Group | Drafter | Jakarta | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95806427 | PT Rodan Graha Cipta | DRAFTER | West Jakarta, Jakarta | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95835027 | PT Jaya Kusuma Sarana | Drafter CAD | Central Jakarta, Jakarta | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/95491522 | PT Multikarya Sarana Perkasa | DRAFTER | Jakarta | posted: 2026-10-26
+- [ ] https://id.jobstreet.com/id/job/95950840 | PT Royal Havilah Indonesia | DRAFTER ENGINEERING | West Jakarta, Jakarta | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/95733719 | PT Fujimak Food Service Indonesia | Drafter | North Jakarta, Jakarta | posted: 2026-11-06
+- [ ] https://id.jobstreet.com/id/job/95922365 | PT Bhineka Ciptabahana Pura | DRAFTER | Tangerang, Banten | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/96091303 | Icon Creative | Drafter | Palembang, South Sumatra | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95914318 | Private Advertiser | Staff Drafter | East Bekasi, West Java | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95847806 | PT Agres Info Teknologi | DRAFTER | North Jakarta, Jakarta | posted: 2026-11-12
+- [ ] https://id.jobstreet.com/id/job/95606749 | PT Parama Agung Karya | Drafter Arsitek Staff | South Jakarta, Jakarta | posted: 2026-10-30
+- [ ] https://id.jobstreet.com/id/job/95983730 | PT. Albeta Sukses Mandiri | DRAFTER | West Jakarta, Jakarta | posted: 2026-11-19
+- [ ] https://id.jobstreet.com/id/job/95631665 | PT Archikon Wiratama | Drafter | Surabaya, East Java | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/95640840 | PT Karya Presisi Anugerah | DRAFTER | West Jakarta, Jakarta | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/95833221 | Wisana Matrakarya | DRAFTER | Surabaya, East Java | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/95582114 | PT Andalan Prima Konstruksi | Drafter | North Jakarta, Jakarta | posted: 2026-10-29
+- [ ] https://id.jobstreet.com/id/job/95893163 | PT GEMILANG KULINER NUSANTARA | DRAFTER | Bekasi, West Java | posted: 2026-11-14
+- [ ] https://id.jobstreet.com/id/job/95970405 | Kabobs Premium Kebab | Drafter | Bandung, West Java | posted: 2026-11-18
+- [ ] https://id.jobstreet.com/id/job/96076642 | PT Global Indonesia Asia Sejahtera | Drafter & Pengawas Lapangan (Penempatan Pekanbaru) | North Jakarta, Jakarta | posted: 2026-11-24
+- [ ] https://id.jobstreet.com/id/job/95497886 | PT Gemala Saranaupaya | Drafter | Cilincing, Jakarta | posted: 2026-10-27
+- [ ] https://id.jobstreet.com/id/job/95579954 | Karunia Prima Nastari (KPN CORP) | Drafter | Central Jakarta, Jakarta | posted: 2026-10-29
+- [ ] https://id.jobstreet.com/id/job/95684421 | PT ADIDAYA CIPTA SENTOSA | DRAFTER | Jakarta | posted: 2026-11-04
+- [ ] https://id.jobstreet.com/id/job/95691443 | PT Social Bella Indonesia | Drafter | West Jakarta, Jakarta | posted: 2026-11-04
+- [ ] https://id.jobstreet.com/id/job/95834421 | Decorindo Prima Graha | Drafter | West Jakarta, Jakarta | posted: 2026-11-11
+- [ ] https://id.jobstreet.com/id/job/95936597 | CV. JLS | Drafter | Surabaya, East Java | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/95664127 | Wiratama Globalindo | Drafter | South Tangerang, Banten | posted: 2026-11-05
+- [ ] https://id.jobstreet.com/id/job/95781340 | PT. Indomitra Global | Drafter | Central Jakarta, Jakarta | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95800505 | CV. Reka Cipta Samala | Drafter | North Jakarta, Jakarta | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95675495 | Indofood Group | Drafter | Kebayoran Lama, Jakarta | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/95940898 | PT Aladin Sakti Metal Engineering | Drafter - AutoCAD | Tangerang District, Banten | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/95941358 | PT INTEGRA KREASITAMA SOLUSINDO | Drafter (Teknik) | Central Jakarta, Jakarta | posted: 2026-11-17
+- [ ] https://id.jobstreet.com/id/job/95780262 | PT Indonesia Ethanol Industry | Drafter | Central Lampung, Lampung | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95897162 | Private Advertiser | Drafter Sipil | East Jakarta, Jakarta | posted: 2026-11-15
+- [ ] https://id.jobstreet.com/id/job/96066619 | Kevin Tan Studio | Architecture Drafter | Tangerang District, Banten | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/95777079 | Andal Energi | Freelance Drafter | Jakarta | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95910329 | PT. Mytech. Engineering | Drafter Engineering 2D 3D | Jakarta | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95736118 | PT FAR EAST SEATING | DRAFTER | Semarang, Central Java | posted: 2026-11-06
+- [ ] https://id.jobstreet.com/id/job/95807384 | PT Royal Impala | Drafter | Tangerang, Banten | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/96060759 | PT. Sarana Konstruksi Nusantara | Freelance Drafter | West Jakarta, Jakarta | posted: 2026-11-23
+- [ ] https://id.jobstreet.com/id/job/95926810 | Pt. Maintek Contracting Services | Drafter | South Tangerang, Banten | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95269007 | PT Sakti Rekatama Cipta | Drafter | Kebayoran Lama, Jakarta | posted: 2026-10-14
+- [ ] https://id.jobstreet.com/id/job/95542476 | PT Sultan Sukses Mandiri | Drafter | South Tangerang, Banten | posted: 2026-10-28
+- [ ] https://id.jobstreet.com/id/job/96091501 | Sinar Mutiara EPC | Drafter (DRF) | Indonesia | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95643097 | PT WIKA Instruments Indonesia | Technical Drafter | Tangerang, Banten | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/95691908 | PT Dwi Tunggal Surya Jaya | Drafter Strukur Arsitektur (Penempatan di Jakarta Pusat) | Jakarta | posted: 2026-11-04
+- [ ] https://id.jobstreet.com/id/job/95793474 | Progress Group | Senior Drafter | Jakarta | posted: 2026-11-10
+- [ ] https://id.jobstreet.com/id/job/95663674 | PT. Motasa Indonesia (Ladaku) | Staff Admin Project & Drafter (Sipil) | Surabaya, East Java | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/95881242 | PT Bintang Bangun Mandiri | Drafter Arsitek | Bandung, West Java | posted: 2026-11-13
+
+- [ ] https://id.jobstreet.com/id/job/95700055 | OTTO Digital | Civil Engineer | Jakarta | posted: 2026-11-04
+- [ ] https://id.jobstreet.com/id/job/95956916 | PT Penta Artha Impressi (Bengkel BOS) | Civil Engineer | Kalideres, Jakarta | posted: 2026-11-16
+- [ ] https://id.jobstreet.com/id/job/95507674 | Indofood Group | Civil Engineer | Kebayoran Lama, Jakarta | posted: 2026-10-26
+- [ ] https://id.jobstreet.com/id/job/95416313 | AMODA SDN. BHD. | Civil Engineer | Jakarta | posted: 2026-10-21
+- [ ] https://id.jobstreet.com/id/job/95668138 | PT Ciptajaya Sejahtera Abadi | Civil Engineer Coordinator | Jakarta | posted: 2026-11-03
+- [ ] https://id.jobstreet.com/id/job/95485287 | PT. Achivon Prestasi Abadi | Civil Engineer | Tangerang, Banten | posted: 2026-10-26
+- [ ] https://id.jobstreet.com/id/job/95634479 | Private Advertiser | Civil Engineer | Jakarta | posted: 2026-11-02
+- [ ] https://id.jobstreet.com/id/job/96026194 | IKPT | Civil Engineer | Tebet, Jakarta | posted: 2026-11-20
+- [ ] https://id.jobstreet.com/id/job/95610382 | PT Bali Towerindo Sentra Tbk | Civil Engineer | Central Jakarta, Jakarta | posted: 2026-10-30
+- [ ] https://id.jobstreet.com/id/job/95898441 | PT. Daya Agung Bestari (Springs Consultant) | Asisstant Project Manager - Civil Engineer - Drafter | Bandung, West Java | posted: 2026-11-15
+- [ ] https://id.jobstreet.com/id/job/95761087 | Private Advertiser | Project Civil Engineer – Residential Development | Bandung, West Java | posted: 2026-11-09
+- [ ] https://id.jobstreet.com/id/job/95630927 | PT General Adjuster Indonesia | Loss Adjuster Civil Engineering | West Jakarta, Jakarta | posted: 2026-11-02
+
+- [ ] https://www.linkedin.com/jobs/view/4485329146 | SMEC (an SJ Group company) | Civil Engineer | Jakarta
+- [ ] https://www.linkedin.com/jobs/view/4485310807 | SMEC (an SJ Group company) | Civil Engineer
+- [ ] https://www.linkedin.com/jobs/view/4492895289 | PT. Universal Zion Indonesia (UZI) | Surveyor Konstruksi
+- [ ] https://www.linkedin.com/jobs/view/4492536480 | TTW | Associate Structural
+- [ ] https://www.linkedin.com/jobs/view/4491373162 | Agung Sedayu Group | Infrastructure Supervisor
+- [ ] https://www.linkedin.com/jobs/view/4492131339 | PT Sukses Corp International | Building Engineering
+- [ ] https://www.linkedin.com/jobs/view/4473094574 | PT Lion Super Indo | Construction Lead
+- [ ] https://www.linkedin.com/jobs/view/4490838086 | Airswift | Resident Engineer
+- [ ] https://www.linkedin.com/jobs/view/4488841011 | Aurecon | Structural Engineer
+- [ ] https://www.linkedin.com/jobs/view/4486559641 | BYD Indonesia | Project Development and Establishment Supervisor
+
+## Processed
