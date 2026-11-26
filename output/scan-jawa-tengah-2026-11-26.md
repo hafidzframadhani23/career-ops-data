@@ -33,3 +33,16 @@ Scoring follows modes/_brief.md: Central Java counts as Java (preferred, no loca
 | 2.0 | FAIL | Civil Engineer | PT Indowin Engineering Indonesia | Batang | 5+ yrs | Rp 6-9 jt | https://id.jobstreet.com/id/job/95957475 |
 | 2.0 | FAIL | Structural Site Engineer / Designer | PT Indowin Engineering Indonesia | Jawa Tengah | 3+ yrs designer | Rp 6-9 jt | https://id.jobstreet.com/id/job/95607725 |
 | 1.5 | FAIL | Estimator (architecture studio) | Conarch Bangun Sejahtera | Solo | - | Rp 3-4 jt | https://id.jobstreet.com/id/job/96080942 |
+
+## Other sources checked (2026-11-26)
+
+| Source | Result |
+|---|---|
+| Kalibrr (Indonesia filter, 9 keywords, 596 rows) | No civil roles in Central Java. Only sales, tutoring, finance, and non-civil officer roles at PT Kawasan Industri Terpadu Batang (incl. an MEP Officer). |
+| Karir.com | Board holds only ~156 live jobs nationwide; "sipil" returns 0; none in Central Java. |
+| Kemnaker Karirhub | Mostly re-lists Kalibrr and HiredToday jobs; keyword "sipil" returns 0. |
+| Indeed Indonesia | Blocks automated access (401). |
+| WIKA, Waskita, Adhi, Hutama Karya, Rekrutmen Bersama BUMN | Not reachable from this environment (connection reset/refused; likely blocks non-Indonesian traffic). |
+| PT PP, Nindya Karya | Sites reachable; Nindya Karya reports no open public vacancies. |
+
+Conclusion: Jobstreet is the only source with civil roles in Central Java today; the table above is the complete list.
